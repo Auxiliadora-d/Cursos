@@ -1,7 +1,7 @@
 # Cursos 
  Python
 
-# Sistema Bancário com validação de CPF, utilizando o TKinter do python para interface
+# Sistema Bancário com validação de cpf, utilizando o TKinter do python para interface
 
 
 import tkinter as tk
